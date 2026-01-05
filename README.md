@@ -52,4 +52,4 @@ ABC-Retail/
 Njabulo Mhlangu
 GitHub: @njabulomh3
 LinkedIn: linkedin.com/in/njabulo-mhlangu-021ba627b
-Email: info.njabulomhlangu@gmail.com
+
